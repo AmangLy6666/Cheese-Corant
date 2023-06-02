@@ -41,7 +41,7 @@ Untuk Versi Skrip Python:
 
 Jika Anda membutuhkan bantuan atau memiliki pertanyaan tentang Colorant, silakan bergabung dengan Discord komunitas:
 
-[![Discord Banner 2][discord-banner]][discord-link]
+[discord-link]
 
 ## Berkontribusi
 
