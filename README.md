@@ -9,8 +9,10 @@ Berfungsi untuk permainan seperti Valorant, Overwatch, dll...
 ---
 ![Gambar](valorantimg.png)
 
-[![Bahasa][language-shield]][language-link]
-[![Lisensi][license-shield]][license-link]
+<b>https://www.python.org/
+<b>https://www.arduino.cc/
+  <b>https://discord.gg/c9QNfYASmy
+  <b>https://github.com/AmangLy6666
 
 ## Komponen
 
@@ -65,7 +67,5 @@ Kami sangat menganjurkan penggunaan etis dari keterampilan pemrograman dan alat.
 Dengan menggunakan Colorant, Anda mengakui bahwa Anda telah membaca dan memahami penyangkalan ini serta setuju untuk mematuhinya.
 
 [discord-link]: https://discord.gg/c9QNfYASmy
-
-[language-link]: https://www.python.org/
 
 [license-link]: https://github.com/AmangLy6666
