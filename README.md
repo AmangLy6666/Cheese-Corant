@@ -8,7 +8,6 @@ Berfungsi untuk permainan seperti Valorant, Overwatch, dll...
 
 ---
 
-<<<<<<< HEAD
 ![Gambar](dist/valorantimg.png)
 
 <b>| https://www.python.org/ |
@@ -20,7 +19,6 @@ https://github.com/AmangLy6666 | </b>
 https://www.arduino.cc/ |
  https://discord.gg/c9QNfYASmy |
  https://github.com/AmangLy6666 | </b>
->>>>>>> 8124f3420efeb9b4069ff337ad97ed5f673e3641
 
 ## Komponen
 
@@ -37,10 +35,8 @@ https://www.arduino.cc/ |
 ## Memulai
 
 ### Prasyarat
-<<<<<<< HEAD
 
 =======
->>>>>>> 8124f3420efeb9b4069ff337ad97ed5f673e3641
 Untuk menggunakan fungsi pergerakan mouse Corant, Anda membutuhkan Arduino Leonardo. Anda dapat membelinya dari [Tokopedia](https://www.tokopedia.com/cncstorebandung/arduino-uno-r3-atmega328p-atmega-16u2-compatible-board-usb-cable?extParam=ivf%3Dfalse&src=topads) atau toko lokal lain di daerah Anda.
 
 ### Instalasi
@@ -68,11 +64,9 @@ Saya ingin mengakui dan memberikan kredit kepada program Firepro, yang telah men
 ## Penyangkalan
 
 > **Peringatan** **Hanya untuk Penggunaan Pendidikan**
-<<<<<<< HEAD
 > Harap dimengerti bahwa proyek ini, Corant, telah dikembangkan semata-mata untuk TUJUAN PENDIDIKAN. Ini menyediakan demonstrasi kemampuan computer vision dan interaksi hardware, bukan untuk memfasilitasi kecurangan atau aktivitas tidak sah dalam permainan atau lingkungan digital lainnya.
 =======
 Harap dimengerti bahwa proyek ini, Corant, telah dikembangkan semata-mata untuk TUJUAN PENDIDIKAN. Ini menyediakan demonstrasi kemampuan computer vision dan interaksi hardware, bukan untuk memfasilitasi kecurangan atau aktivitas tidak sah dalam permainan atau lingkungan digital lainnya.
->>>>>>> 8124f3420efeb9b4069ff337ad97ed5f673e3641
 
 > **Peringatan** **Bukan untuk Keuntungan Tidak Adil**
 > Meskipun proyek ini mungkin menampilkan fungsionalitas yang dapat digunakan untuk mendapatkan keuntungan tidak adil dalam permainan, penggunaan tersebut secara tegas tidak dianjurkan. Penyalahgunaan proyek ini untuk melakukan kecurangan atau mengganggu pengalaman bermain orang lain bertentangan dengan tujuan yang dimaksudkan dari alat pendidikan ini.
@@ -86,8 +80,6 @@ Harap dimengerti bahwa proyek ini, Corant, telah dikembangkan semata-mata untuk 
 Dengan menggunakan Corant, Anda mengakui bahwa Anda telah membaca dan memahami penyangkalan ini serta setuju untuk mematuhinya.
 
 [discord-link]: https://discord.gg/c9QNfYASmy
-<<<<<<< HEAD
 =======
 
->>>>>>> 8124f3420efeb9b4069ff337ad97ed5f673e3641
 [license-link]: https://github.com/AmangLy6666
