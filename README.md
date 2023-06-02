@@ -9,10 +9,10 @@ Berfungsi untuk permainan seperti Valorant, Overwatch, dll...
 ---
 ![Gambar](valorantimg.png)
 
-<b>https://www.python.org/ |
-<b>https://www.arduino.cc/ |
-  <b>https://discord.gg/c9QNfYASmy |
-  <b>https://github.com/AmangLy6666
+<b>| https://www.python.org/ |
+https://www.arduino.cc/ |
+ https://discord.gg/c9QNfYASmy |
+ https://github.com/AmangLy6666 | </b>
 
 ## Komponen
 
