@@ -5,7 +5,7 @@ import pyautogui
 import ctypes
 
 from termcolor import colored
-from colorant import Colorant
+from corant import Corant
 from other import Settings
 
 class Main:
@@ -28,7 +28,7 @@ class Main:
         self.CENTER_X, self.CENTER_Y = self.monitor.width // 2, self.monitor.height // 2
         self.XFOV = self.settings.get_int('Settings', 'X-FOV')
         self.YFOV = self.settings.get_int('Settings', 'Y-FOV')
-        self.colorant = Colorant(
+        self.corant = Corant(
             self.CENTER_X - self.XFOV // 2, self.CENTER_Y - self.YFOV // 2,
             self.XFOV, self.YFOV)
     
@@ -47,7 +47,7 @@ class Main:
         windll.SetConsoleWindowInfo(handle, ctypes.c_int(True), ctypes.pointer(rect))
 
     def print_logo(self):
-        os.system(f"title Colorant")
+        os.system(f"title Corant")
         print(colored('''
                 (          (    )    ) :   ( (  
                 )\  ( (  : )\  ((.  ()))(  )\)\ 
@@ -62,15 +62,15 @@ class Main:
         try:
             print(colored('[', 'white') + colored('Pengaturan Tombol', 'cyan') + colored(']', 'white'))
             print(colored('[', 'white') + colored('●', 'light_grey') + colored(']', 'white') +
-                  colored(f' Tahan {self.KEY_NAMES[self.colorant.AIMBOT_KEY]}', 'light_grey') + colored(' → Aimbot', 'blue'))
+                  colored(f' Tahan {self.KEY_NAMES[self.corant.AIMBOT_KEY]}', 'light_grey') + colored(' → Aimbot', 'blue'))
             print(colored('[', 'white') + colored('●', 'light_grey') + colored(']', 'white') +
-                  colored(f' Tekan {self.KEY_NAMES[self.colorant.TOGGLE_KEY]}', 'light_grey') + colored(' → Toggle ON/OFF', 'blue'))
+                  colored(f' Tekan {self.KEY_NAMES[self.corant.TOGGLE_KEY]}', 'light_grey') + colored(' → Toggle ON/OFF', 'blue'))
             print()
             print(colored('[', 'white') + colored('Informasi', 'cyan') + colored(']', 'white'))
             print(colored('[', 'white') + colored('●', 'light_grey') + colored(']', 'white') +
                   colored(f' Ini adalah aimbot sumber terbuka gratis yang dibuat untuk tujuan pendidikan, jika seseorang mencoba menjualnya kepada Anda,\nAnda sedang ditipu.', 'blue'))
             print(colored('[', 'white') + colored('●', 'light_grey') + colored(']', 'white') +
-                  colored(f' Colorant menggunakan deteksi warna hsv dan beberapa jenis alat tangkap layar untuk berinteraksi dengan warna yang ditentukan di layar, tanpa memodifikasi memori atau file game.', 'blue'))
+                  colored(f' Corant menggunakan deteksi warna hsv dan beberapa jenis alat tangkap layar untuk berinteraksi dengan warna yang ditentukan di layar, tanpa memodifikasi memori atau file game.', 'blue'))
             print(colored('[', 'white') + colored('●', 'light_grey') + colored(']', 'white') +
                   colored(f' Pembaruan terakhir → 23 MEI 2023.', 'blue'))
             print(colored('[', 'white') + colored('●', 'light_grey') + colored(']', 'white') +
@@ -86,7 +86,7 @@ class Main:
         self.cmd(125,30)
         self.print_logo()
         self.print_info()
-        self.colorant.listen()
+        self.corant.listen()
 
 if __name__ == '__main__':
     Main().run()
