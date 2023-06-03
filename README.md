@@ -12,11 +12,12 @@ Berfungsi untuk permainan seperti Valorant, Overwatch, dll...
 
 ---
 ![Gambar](valorantimg.png)
+<br>
 
 <b> | https://www.python.org/ |
 https://www.arduino.cc/ |
 https://discord.gg/c9QNfYASmy |
-https://github.com/AmangLy6666 | </b>
+https://github.com/amaralkaff | </b>
 
 ## Komponen
 
@@ -74,4 +75,4 @@ Dengan menggunakan Corant, Anda mengakui bahwa Anda telah membaca dan memahami p
 
 [language-link]: https://www.python.org/
 
-[license-link]: https://github.com/AmangLy6666
+[license-link]: https://github.com/amaralkaff
