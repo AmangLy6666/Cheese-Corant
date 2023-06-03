@@ -1,7 +1,7 @@
 # Corant
 
 <b>Testing</b>
-|| https://youtu.be/-cgYsMEYEdk ||
+|| https://youtu.be/-cgYsMEYEdk || Translate this language using https://www.deepl.com/translator ||
 
 ### Deskripsi
 
