@@ -18,6 +18,7 @@ Berfungsi untuk permainan seperti Valorant, Overwatch, dll...
 https://www.arduino.cc/ |
 https://discord.gg/c9QNfYASmy |
 https://github.com/amaralkaff | </b>
+<br>
 
 ## Komponen
 
