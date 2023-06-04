@@ -6,7 +6,7 @@
 
 ### Deskripsi
 
-Corant adalah proyek berbasis Python yang dibangun untuk tujuan pendidikan, menampilkan pelacakan objek berbasis warna secara real-time menggunakan teknik computer vision. Proyek ini berinteraksi dengan komponen hardware seperti Arduino, menambahkan lapisan keamanan tambahan.
+Corant adalah proyek berbasis Python yang dibangun untuk tujuan edukasi, menampilkan pelacakan objek berbasis warna secara real-time menggunakan teknik computer vision. Proyek ini berinteraksi dengan komponen hardware seperti Arduino, menambahkan lapisan keamanan tambahan.
 
 Berfungsi untuk permainan seperti Valorant, Overwatch, dll...
 
